@@ -5,9 +5,7 @@ Highly passionate about **Cybersecurity**, **Active Directory Security**, and **
 ---
 
 ### 🛡️ TryHackMe Activity
-<a href="https://tryhackme.com/p/miloszlabedzki7">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/miloszlabedzki7.png" alt="TryHackMe Badge" />
-</a>
+<a href="https://tryhackme.com/p/miloszlabedzki7"><img src="https://tryhackme-badges.s3.amazonaws.com/miloszlabedzki7.png" alt="TryHackMe Badge" /></a>
 
 ---
 
