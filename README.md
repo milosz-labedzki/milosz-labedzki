@@ -1,6 +1,6 @@
-# Cześć, jestem Miłosz! 👋
+# Hi, I'm Miłosz! 👋
 
- highly passionate about **Cybersecurity**, **Active Directory Security**, and **System Administration**.
+Highly passionate about **Cybersecurity**, **Active Directory Security**, and **System Administration**.
 
 ---
 
@@ -12,8 +12,8 @@
 ---
 
 ### 🛠️ Key Skills & Focus Areas
-- 🎯 **Red & Blue Team Operations:** Active Directory Attacks (Kerberoasting, LLMNR Poisoning), Log Analysis & Hardening
-- 🌐 **Web & Systems:** HTML, CSS, JavaScript, PHP, MySQL, Windows Server, Linux (Bash)
+- 🎯 **Red & Blue Team Operations:** Active Directory Attacks (Kerberoasting, LLMNR Poisoning), Log Analysis & System Hardening
+- 🌐 **Technologies:** HTML, CSS, JavaScript, PHP, MySQL, Windows Server, Linux (Bash)
 - 🧪 **Current Goal:** Building homelabs, solving practical security scenarios, and documenting cheat sheets
 
 ---
