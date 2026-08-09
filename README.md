@@ -1,13 +1,11 @@
 # Hi, I'm Miłosz! 👋
 
-Highly passionate about **Cybersecurity**, **Active Directory Security**, and **System Administration**.
+Highly passionate about **Cybersecurity**, **Active Directory Security**, and **System Administration**.https://github.com/miloszlabedzki7-max/miloszlabedzki7-max/blob/main/README.md
 
 ---
 
 ### 🛡️ TryHackMe Activity
-<a href="https://tryhackme.com/p/miloszlabedzki7">
-  <img src="https://tryhackme.com/badge/miloszlabedzki7" alt="TryHackMe Badge" />
-</a>
+- **TryHackMe Profile:** [miloszlabedzki7](https://tryhackme.com/p/miloszlabedzki7)
 
 ---
 
