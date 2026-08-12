@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/miloszlabedzki7">
-    <img src="https://img.shields.io/badge/TryHackMe-miloszlabedzki7-red?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/>
+  <a href="https://tryhackme.com/p/miloszlabedzki">
+    <img src="https://img.shields.io/badge/TryHackMe-miloszlabedzki-red?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/>
   </a>
 </p>
 
