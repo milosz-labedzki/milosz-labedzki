@@ -8,7 +8,7 @@
   <a href="https://tryhackme.com/p/miloszlabedzki">
     <img src="https://img.shields.io/badge/TryHackMe-miloszlabedzki-red?logo=tryhackme&logoColor=white" />
   </a>
-  <a href="mailto:TWOJ_EMAIL@example.com">
+  <a href="mailto:miloszlabedzki7@gmail.com">
     <img src="https://img.shields.io/badge/Email-contact-blue?logo=gmail&logoColor=white" />
   </a>
 </p>
