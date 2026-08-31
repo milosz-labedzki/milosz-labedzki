@@ -1,15 +1,12 @@
 <h1 align="center">Hi, I'm Miłosz 👋</h1>
-
 <p align="center">
   <b>Cybersecurity enthusiast focused on Active Directory Security, Red/Blue Team Operations, and System Administration.</b>
 </p>
-
 <p align="center">
   <a href="https://tryhackme.com/p/miloszlabedzki">
     <img src="https://img.shields.io/badge/TryHackMe-miloszlabedzki-red?logo=tryhackme&logoColor=white" />
   </a>
 </p>
-
 <p align="center">
   <i>Started this GitHub in August 2026 — building in public every day since.</i>
 </p>
@@ -39,7 +36,7 @@
 ### 🚧 Currently Working On
 
 - 🔵 Blue Team detection write-up for the AD home lab (log analysis, defensive recommendations)
-- 📘 Preparing for Polish matura (extended CS exam) and Security+ certification
+- 📘 Preparing for Polish matura and INF.03 Exam
 
 **AD Home Lab status:** ✅ Domain Controller deployed · ✅ Kerberoasting (end-to-end) · ✅ LLMNR/NBT-NS Poisoning (end-to-end) · ⏭️ Blue Team write-up next
 
