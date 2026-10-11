@@ -35,10 +35,7 @@
 
 ### 🚧 Currently Working On
 
-- 🔵 Blue Team detection write-up for the AD home lab (log analysis, defensive recommendations)
 - 📘 Preparing for Polish matura and INF.03 Exam
-
-**AD Home Lab status:** ✅ Domain Controller deployed · ✅ Kerberoasting (end-to-end) · ✅ LLMNR/NBT-NS Poisoning (end-to-end) · ⏭️ Blue Team write-up next
 
 ---
 
@@ -46,7 +43,7 @@
 
 | Repository | Description |
 |---|---|
-| [Active-Directory-Home-Lab](https://github.com/milosz-labedzki/Active-Directory-Home-Lab) | Isolated AD lab on VirtualBox for Red Team attack simulation and Blue Team log analysis |
+| [Active-Directory-Home-Lab](https://github.com/milosz-labedzki/Active-Directory-Home-Lab) | Isolated AD lab on VirtualBox for Red Team attack simulation and Blue Team log analysis — complete |
 | [RedTeam-Recon-Tool](https://github.com/milosz-labedzki/RedTeam-Recon-Tool) | Fast, multi-threaded Port Scanner and Banner Grabber written in Python for Red Team reconnaissance |
 | [Tryhackme-Labs](https://github.com/milosz-labedzki/Tryhackme-Labs) | Notes, command cheat sheets, and write-ups from hands-on labs |
 | [INF03-Exam-Solutions](https://github.com/milosz-labedzki/INF03-Exam-Solutions) | Practical web development & database exercises (INF.03 vocational exam prep) |
