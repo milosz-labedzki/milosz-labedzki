@@ -29,14 +29,14 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 </p>
 
-- 🛡️ **Current Professional Focus** — Continuous hands-on cybersecurity upskilling, preparing for entry-level **SOC Level 1 / Junior Security** roles, and building practical defensive and offensive tradecraft.
+- 🛡️ **Current Professional Focus** — Engineering and testing isolated Active Directory home labs, mastering daily hands-on scenarios on TryHackMe, and preparing for entry-level **SOC Level 1 / Junior Security** roles.
 
 ---
 
 ### 🚧 Currently Working On
 
 - 📘 Preparing for Polish Matura & INF.03 vocational exams (Final year of IT Technical High School)
-- 🔬 Developing custom security recon tools, hardening lab environments, and documenting advanced technical write-ups
+- 🔬 Documenting advanced security write-ups, hardening lab architectures, and expanding practical defensive/offensive skills
 
 ---
 
@@ -45,8 +45,8 @@
 | Repository | Description |
 |---|---|
 | [Active-Directory-Home-Lab](https://github.com/milosz-labedzki/Active-Directory-Home-Lab) | Isolated AD lab on VirtualBox for Red Team attack simulation and Blue Team log analysis — complete |
-| [RedTeam-Recon-Tool](https://github.com/milosz-labedzki/RedTeam-Recon-Tool) | Fast, multi-threaded Port Scanner and Banner Grabber written in Python for Red Team reconnaissance |
 | [Tryhackme-Labs](https://github.com/milosz-labedzki/Tryhackme-Labs) | Notes, command cheat sheets, and write-ups from hands-on labs |
+| [RedTeam-Recon-Tool](https://github.com/milosz-labedzki/RedTeam-Recon-Tool) | Fast, multi-threaded Port Scanner and Banner Grabber written in Python for Red Team reconnaissance |
 | [INF03-Exam-Solutions](https://github.com/milosz-labedzki/INF03-Exam-Solutions) | Practical web development & database exercises (INF.03 vocational exam prep) |
 
 ---
