@@ -15,7 +15,7 @@
 
 ### 🎯 Key Skills & Focus Areas
 
-- 🔴 **Red & Blue Team Operations** — Active Directory attacks (Kerberoasting, LLMNR/NBT-NS Poisoning), log analysis, system hardening
+- 🔴 **Red & Blue Team Operations** — Active Directory attacks (Kerberoasting, LLMNR/NBT-NS Poisoning), log analysis, system hardening, and threat detection
 - 🌐 **Technologies:**
 
 <p>
@@ -29,13 +29,14 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 </p>
 
-- 🛠️ **Current Focus** — Developing custom Red Team security tools, building isolated AD home labs, and documenting write-ups
+- 🛡️ **Current Professional Focus** — Continuous hands-on cybersecurity upskilling, preparing for entry-level **SOC Level 1 / Junior Security** roles, and building practical defensive and offensive tradecraft.
 
 ---
 
 ### 🚧 Currently Working On
 
-- 📘 Preparing for Polish matura and INF.03 Exam
+- 📘 Preparing for Polish Matura & INF.03 vocational exams (Final year of IT Technical High School)
+- 🔬 Developing custom security recon tools, hardening lab environments, and documenting advanced technical write-ups
 
 ---
 
