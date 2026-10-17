@@ -1,53 +1,51 @@
 <h1 align="center">Hi, I'm Miłosz 👋</h1>
+
 <p align="center">
-  <b>Cybersecurity enthusiast focused on Active Directory Security, Red/Blue Team Operations, and System Administration.</b>
+  <b>Cybersecurity Enthusiast &bull; Active Directory &bull; Red/Blue Team Operations</b>
 </p>
+
+<p align="center">
+  <i>Building in public since August 2026.</i>
+</p>
+
 <p align="center">
   <a href="https://tryhackme.com/p/miloszlabedzki">
-    <img src="https://img.shields.io/badge/TryHackMe-miloszlabedzki-red?logo=tryhackme&logoColor=white" />
+    <img src="https://img.shields.io/badge/TryHackMe-miloszlabedzki-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
   </a>
 </p>
+
+---
+
+<!-- STACK TECHNOLOGICZNY -->
 <p align="center">
-  <i>Started this GitHub in August 2026 — building in public every day since.</i>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,mysql,windows,linux" alt="Tech Stack" />
 </p>
 
 ---
 
-### 🎯 Key Skills & Focus Areas
+### 🎯 Current Focus & Objectives
 
-- 🔴 **Red & Blue Team Operations** — Active Directory attacks (Kerberoasting, LLMNR/NBT-NS Poisoning), log analysis, system hardening, and threat detection
-- 🌐 **Technologies:**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-</p>
-
-- 🛡️ **Current Professional Focus** — Engineering and testing isolated Active Directory home labs, mastering daily hands-on scenarios on TryHackMe, and preparing for entry-level **SOC Level 1 / Junior Security** roles.
-
----
-
-### 🚧 Currently Working On
-
-- 📘 Preparing for Polish Matura & INF.03 vocational exams (Final year of IT Technical High School)
-- 🔬 Documenting advanced security write-ups, hardening lab architectures, and expanding practical defensive/offensive skills
+- 🛡️ **Daily Cybersecurity Practice:** Solving TryHackMe rooms, publishing technical write-ups, building custom reconnaissance tools in Python, and engineering isolated Active Directory home-lab environments.
+- 🎓 **Academic Milestones:** Final year of IT Technical High School — preparing for the INF.03 vocational exam and Polish Matura (Extended Mathematics & Computer Science).
+- 💼 **Career Goal:** Aspiring to join a SOC team as an entry-level **SOC Level 1 / Junior Security Analyst**.
 
 ---
 
 ### 📂 Featured Repositories
 
 | Repository | Description |
-|---|---|
-| [Active-Directory-Home-Lab](https://github.com/milosz-labedzki/Active-Directory-Home-Lab) | Isolated AD lab on VirtualBox for Red Team attack simulation and Blue Team log analysis — complete |
-| [Tryhackme-Labs](https://github.com/milosz-labedzki/Tryhackme-Labs) | Notes, command cheat sheets, and write-ups from hands-on labs |
-| [RedTeam-Recon-Tool](https://github.com/milosz-labedzki/RedTeam-Recon-Tool) | Fast, multi-threaded Port Scanner and Banner Grabber written in Python for Red Team reconnaissance |
-| [INF03-Exam-Solutions](https://github.com/milosz-labedzki/INF03-Exam-Solutions) | Practical web development & database exercises (INF.03 vocational exam prep) |
+| :--- | :--- |
+| **[Active-Directory-Home-Lab](https://github.com/milosz-labedzki/Active-Directory-Home-Lab)** | Isolated AD lab on VirtualBox for Red Team attack simulation & Blue Team log analysis. |
+| **[Tryhackme-Labs](https://github.com/milosz-labedzki/Tryhackme-Labs)** | Notes, command cheat sheets, and hands-on cybersecurity lab write-ups. |
+| **[RedTeam-Recon-Tool](https://github.com/milosz-labedzki/RedTeam-Recon-Tool)** | Fast, multi-threaded Port Scanner and Banner Grabber in Python for reconnaissance. |
+| **[INF03-Exam-Solutions](https://github.com/milosz-labedzki/INF03-Exam-Solutions)** | Practical web development & database exercises for INF.03 vocational exam prep. |
+
+---
+
+<!-- LICZNIK PASSI I SUMA COMMITÓW -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milosz-labedzki&theme=tokyonight&hide_border=true&background=121212" alt="GitHub Streak" />
+</p>
 
 ---
 
